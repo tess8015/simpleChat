@@ -1,5 +1,4 @@
 # Chat-Based Java Application using OCSF Framework
-Welcome to the chat-based Java application using the Object Client-Server Framework (OCSF)! 
 This project allows you to create a client-server chat application where clients can communicate 
 with each other through a central server using the OCSF framework in Java.
 
